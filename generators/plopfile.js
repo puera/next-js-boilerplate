@@ -5,7 +5,7 @@ module.exports = function (plop) {
       prompts: [{
           type: 'input',
           name: 'name',
-          message: 'controller name please'
+          message: 'component name please'
       }],
       actions: [
         {
