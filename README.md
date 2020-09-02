@@ -12,6 +12,9 @@ This project uses lot of stuff as:
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
+- [Plop](https://plopjs.com/)
+- [Babel](https://babeljs.io/)
+- [Lint Staged](https://github.com/okonet/lint-staged)
 
 ## Getting Started
 
@@ -37,6 +40,7 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 - `test:watch`: runs jest in watch mode
 - `storybook`: runs storybook on `localhost:6006`
 - `build-storybook`: create the build version of storybook
+- `generate`: create template for components automatically with stories, styles and test files
 
 ## Learn More
 
